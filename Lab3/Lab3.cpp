@@ -1,4 +1,4 @@
-#include "initShaders.h"
+#include "shaderHeader.h"
 #include <cstdlib>
 using namespace std;
 
